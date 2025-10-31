@@ -1,6 +1,6 @@
 # ⚽ Day 35/365 – "Jabulani" Curve Shot 
 
-This experimental Haxball script adds a ** curved shot effect**
+This experimental Haxball script adds a **curved shot effect**
 
 ---
 
